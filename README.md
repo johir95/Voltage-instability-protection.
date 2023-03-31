@@ -1,5 +1,5 @@
 # Voltage-instability-protection.
-.Objective: For High voltage, load will be OFF , for Threshold voltage, load will be ON after 10second delay  and or Low voltage, load will be OFF.
+Objective: For High voltage, the load will be OFF, for Threshold voltage, the load will be ON after a 10-second delay and or Low voltage, the load will be OFF.
 
 Iist of Equipment: 
 1. Transformer (220V-12V) 
@@ -19,7 +19,7 @@ Iist of Equipment:
 15. Bulb holder
 
 
-.Working Principle 
+Working Principle 
 
 Condition 1: 
 When I supply 180V to the Primary side of the transformer then in the secondary side I 
