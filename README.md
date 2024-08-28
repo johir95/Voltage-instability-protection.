@@ -1,5 +1,5 @@
 # Voltage-instability-protection.
-Objective: For High voltage, the load will be OFF, for Threshold voltage, the load will be ON after a 10-second delay and or Low voltage, the load will be OFF.
+Objective:The main objective is to design a circuit that controls a load based on varying input voltages using a relay, transistors, and a 555 timer for delayed activation.The circuit responds differently to 180V (Low voltage the load will be OFF), 210V (Threshold voltage, the load will be ON after a 10-second delay), and 240V (High voltage, the load will be OFF).
 
 Iist of Equipment: 
 1. Transformer (220V-12V) 
